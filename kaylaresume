@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <style>
+
+        .links {text-align: center}
+
+        h1 {text-align: center}
+
+    h2 {color: dodgerblue}
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="links"><a href="#edu">Education</a> - <a href="#skl">Skills</a> - <a href="#exp">Experience and Professional Development</a> - <a href="#obj">Leadership and Community Service</a></div>
+
+<h1>Kayla Waysome</h1>
+
+<div class="links">703-703-7030 - 2455 4th St Washington, DC- <a href="mailto:kayla.waysome@gmail.com">kayla.waysome@gmail.com</a>
+
+
+
+</div>
+
+<h2 id="edu">Education</h2>
+
+<p>Howard University, Washington, D.C. <br/>
+
+    B.B.A. Computer Information Systems <br/>
+
+    Expected Graduation: May 2019 <br/>
+
+    Major GPA: 4.0  Cumulative GPA: 4.0<br/>
+
+    Honors: School of Business Executive Leadership Honors Program, Howard University Legacy Scholar
+
+</p>
+
+<h2 id="skl">Skills</h2>
+
+<p> Microsoft Excel, Word, PowerPoint, Outlook, Program Planning, Public Speaking, Fashion Styling
+
+</p>
+
+<h2 id="exp">Experience and Professional Development</h2>
+
+<p>Federal Human Capital Summer Scholar - Deloitte - Washington, DC &nbsp &nbsp June 2018-July 2018
+
+    <ul>
+
+    <li>Created 12 user personas of all client stakeholders for internal and external use </li>
+
+    <li>Produced a “report card” system for tracking adoption, engagement, satisfaction, and improvement metrics for client </li>
+
+    <li>Designed ideas for establishing a Change Management Center of Excellence within the client site to improve employee experiences</li>
+    
+    <li>Facilitated a “Lunch and Learn” on the topic of Avoiding Microaggression in the Workplace for internal project team</li>
+
+</ul>
+
+Information Technology Intern - Ingersoll Rand - Hartford, Davidson,  NC  &nbsp &nbsp &nbsp May  2017 - August 2017
+
+<ul>
+
+    <li>Monitored over 45,000 hosts on Ingersoll Rand’s global network daily – analyzing information on 3 different applications relating to vulnerabilities threatening the company’s network security </li>
+
+<li>Reviewed 23 IT Policies (General and Security) and presented revisions for the enterprise wide project of updating policies that have not been updated since 2009 </li>
+
+<li>	Managed the project of reimaging 230 employee computers that were infected with advanced malware</li>
+
+<li>Identified and notified approximately 70 employees who did not comply with enterprise wide password-reset initiative</li>
+
+</ul>
+
+Government Relations Intern - Educational Testing Services - Washington, D.C.&nbsp &nbspMay June 2016 = July 2016
+
+<ul>
+
+    <li>Conducted and compiled 40 pages of research on elementary, secondary and high school education, teacher licensure, student assessment, and corporate and family issues that kept the Government Relations office updated on details of current events </li>
+
+    <li>Participated in a business case study competition involving intensive assignments to hone analytical, quantitative, and communication skills</li>
+
+    <li>Attended 3 education-related events on Capitol Hill and in Washington and prepared summaries for internal distribution to 2,500 employees so that they remained updated on new and available groundbreaking research that ETS may work to get involved in </li>
+
+</ul>
+
+
+
+
+</p>
+
+<h2 id="obj">Leadership and Professional Developemt</h2>
+
+<p> 80th Miss Howard University - Howard University Royal Court &nbsp &nbsp April 2018 - Present
+
+    <ul>
+
+    <li>Won the Top Ten placement in the EBONY Magazine HBCU Campus Queen’s Competition</li>
+
+    <li>Featured on national talk show, “The Real”, for Black History Month and in The Washington Post for voting advocacy</li>
+
+    <li>Competed at the National Black College Alumni Hall of Fame Queen’s Competition and placed 2nd runner up among 40 other young women </li>
+    
+    <li>Spoke at over 30 events where speaking topics ranged from HBCU advocacy, women’s empowerment, and professional branding</li>
+
+</ul>
+
+<p>1st Vice President and Treasurer - Alpha Chapter, Delta Sigma Theta Sorority, Inc.&nbsp &nbsp May 2017 - Present
+
+</p>
+
+
+</ul>
+
+
+
+
+
+</p>
